@@ -84,7 +84,7 @@ Multi-agent platform that automates purchasing, stock rebalancing, planning and 
 
 `Node.js` `PostgreSQL` `AWS Lightsail` `LLM agents` · *private repo — happy to walk through the architecture*
 
-### 🕺 [Dança AI](https://github.com/FelipeMDR/DancaAI) — On-device computer vision for dance analysis
+### 🕺 [Dança AI](https://github.com/DibraldoXD/DancaAI) — On-device computer vision for dance analysis
 Undergraduate thesis (UNIFEI). Android app that analyzes forró movements in real time: weight transfer, posture, rhythmic cadence and step identification. BlazePose Lite via MediaPipe, INT8-quantized TFLite, DTW with a Sakoe-Chiba band, CameraX + Jetpack Compose. Research protocol approved through CEP/Plataforma Brasil.
 
 `Kotlin` `MediaPipe` `TensorFlow Lite` `CameraX` `Jetpack Compose`
